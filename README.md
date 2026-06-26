@@ -31,7 +31,7 @@ Cada vez que presiones tu tecla de activación (/), escribas en el chat de Roblo
 # Seguridad y Falsos Positivos en HamiTTS (VirusTotal)
 Quiero ser totalmente transparentes contigo. Si escaneas HamiTTS.exe en VirusTotal puede que aparezcan hasta 3 alertas. Aquí te explico, sin tecnicismos, por qué ocurre y por qué el programa está 100% limpio.
 
-Cuando usas el comando pyinstaller --onefile, la herramienta agarra tu script de Python, todas las librerías (como CustomTkinter) y el propio intérprete de Python, y los mete comprimidos dentro de un ejecutable ejecutable ejecutable genérico llamado bootloader.
+Cuando usas el comando pyinstaller --onefile, la herramienta agarra tu script de Python, todas las librerías (como CustomTkinter) y el propio intérprete de Python, y los mete comprimidos dentro de un ejecutable genérico llamado bootloader.
 El problema es que los creadores de virus reales también usan PyInstaller para camuflar sus códigos maliciosos dentro de archivos legítimos de Python. Como consecuencia, algunos antivirus mediocres o hiper-sensibles optan por la vía fácil: marcan cualquier ejecutable creado con PyInstaller como troyano por defecto, sin importar si el código de adentro es un juego, una calculadora o mi programa.
 
 Los antivirus modernos no solo buscan virus conocidos, sino que usan Inteligencia Artificial para analizar el comportamiento del código (detección heurística). Si analizamos lo que hace mi programa, cumple con la "lista de verificación" de lo que un troyano promedio haría:
