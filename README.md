@@ -1,3 +1,6 @@
+## HamiTTS
+Programa de codigo abierto que te ayuda a pasar de texto a audio en roblox, completamente gratis y de codigo abierto.
+
 # Guía de Instalación y Uso
 Cinco pasos rápidos para dejar HamiTTS funcionando en tu chat de voz.
 
@@ -47,3 +50,10 @@ Los antivirus modernos no solo buscan virus conocidos, sino que usan Inteligenci
 Para un algoritmo automatizado de un antivirus, un programa que no tiene firma digital, que nadie conoce, que corre oculto, abre webs y ejecuta comandos en Windows, levanta banderas rojas inmediatamente.
 
 Si revisas los nombres de los 3 antivirus que te dieron positivo, notarás que no son los grandes de la industria. Probablemente sean motores muy raros o poco conocidos (como MaxSecure, SecureAge, Gridinsoft, Bkav, Zillya o similares). Si los gigantes de la ciberseguridad (como Microsoft Defender, Kaspersky, Bitdefender, Avast, ESET o Symantec) dicen que el archivo está en verde (Undetected), significa que el programa está completamente limpio y seguro.
+
+
+
+## PAGINAS OFICIALES
+- Tiktok: https://www.tiktok.com/@hamirblx
+- Youtube: https://www.youtube.com/@Ham44
+- Pagina para descargar HamiTTS: 
