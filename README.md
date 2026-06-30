@@ -1,4 +1,4 @@
-## HamiTTS
+# HamiTTS
 Programa de codigo abierto que te ayuda a pasar de texto a audio en roblox, completamente gratis y de codigo abierto.
 
 # Guía de Instalación y Uso
@@ -53,7 +53,7 @@ Si revisas los nombres de los 3 antivirus que te dieron positivo, notarás que n
 
 
 
-## PAGINAS OFICIALES
+# PAGINAS OFICIALES
 - Tiktok: https://www.tiktok.com/@hamirblx
 - Youtube: https://www.youtube.com/@Ham44
 - Pagina para descargar HamiTTS: 
